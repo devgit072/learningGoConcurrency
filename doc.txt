@@ -1,0 +1,4 @@
+What is barrier pattern?
+Barrier pattern is to use some barrier before using some response.
+For example: one function is waiting for consolidated response from 3 microservices/threads/goroutines.
+There will barrier to that one function and he cant use the response until it is consolidated by some consildator.

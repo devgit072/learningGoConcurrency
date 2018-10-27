@@ -1,0 +1,46 @@
+{The Case of Jane Doe Ponytail https://www.nytimes.com/interactive/2018/10/11/nyregion/sex-workers-massage-parlor.html HackerNews tonic_section}
+{Is WebAssembly faster than JavaScript? https://lemire.me/blog/2018/10/23/is-webassembly-faster-than-javascript/ HackerNews ingve}
+{How to Raise Money (2013) http://paulgraham.com/fr.html HackerNews munchor}
+{DRM for chargers? Google Pixel 3 locks fast Qi charging to its own stand https://arstechnica.com/?p=1398545 HackerNews extraterra}
+{Ditching Windows: 2 Weeks with Ubuntu Linux on the Dell XPS 13 https://www.forbes.com/sites/jasonevangelho/2018/07/19/ditching-windows-2-weeks-with-ubuntu-linux-on-the-dell-xps-13/#6d821ce91836 HackerNews neverminder}
+{As a female engineer, I am not diversity https://hackernoon.com/i-am-not-diversity-8f5abc876acc HackerNews zhangela}
+{Google paid Andy Rubin $90M while keeping silent about a misconduct claim https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html HackerNews untog}
+{Adblock filter rule list modified politically in Finland https://github.com/uBlockOrigin/uBlock-issues/issues/285 HackerNews Maakuth}
+{In Groundbreaking Decision Feds Say Hacking DRM to Fix Your Electronics Is Legal https://motherboard.vice.com/en_us/article/xw9bwd/1201-exemptions-right-to-repair HackerNews jbegley}
+{Show HN: Toodles – Project management directly from the TODO's in your code https://github.com/aviaviavi/toodles HackerNews aviaviavi}
+{Ban organophosphate pesticides to protect children's health, experts say https://www.theguardian.com/environment/2018/oct/24/entire-pesticide-class-should-be-banned-for-effect-on-childrens-health HackerNews ItsMe000001}
+{Former CIA Chief of Disguise Explains How Spies Use Disguises [video] https://m.youtube.com/watch?v=JASUsVY5YJ8 HackerNews miiiiiike}
+{The future of photography is code https://techcrunch.com/2018/10/22/the-future-of-photography-is-code/ HackerNews hug}
+{The myth of whiteness in classical sculpture https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture HackerNews fanf2}
+{Spent – Poverty Simulator (2011) http://playspent.org HackerNews smpetrey}
+{Is Gutenberg the End or a New Beginning for WordPress? https://deliciousbrains.com/wordpress-gutenberg/ HackerNews smacktoward}
+{Ask HN: Is Google is broken for discovery?  HackerNews xfour}
+{MongoDB's Server Side Public License Is Likely Unenforceable https://www.processmechanics.com/2018/10/18/the-server-side-public-license-is-flawed/ HackerNews willlll}
+{Tesla Autopilot retrofit on a classic P85 (2016) https://skie.net/skynet/projects/tesla/view_post/14_Autopilot+Retrofit+on+Classic+P85 HackerNews sathackr}
+{Announcing Rust 1.30 https://blog.rust-lang.org/2018/10/25/Rust-1.30.0.html HackerNews steveklabnik}
+{Making water from air – XPrize winner in Water Abundance announced https://water.xprize.org/prizes/water-abundance/articles/waxp-grand-prize-winner HackerNews sandyshankar}
+{Fatal error with go get -u all and vendored dependency https://www.reddit.com/r/golang/comments/9rb946/fatal_error_with_go_get_u_all_and_vendored/ Reddit /r/golang trollhard9000}
+{Learning Go to create a REST API that if coded in Node JS I know I would code with Express JS/Socket.IO/Redis and then with JWT auth, should I stick with vanilla(?) net/http or use a framework? And how should I start learning how to do this? https://www.reddit.com/r/golang/comments/9ra169/learning_go_to_create_a_rest_api_that_if_coded_in/ Reddit /r/golang valcroft}
+{New to go and Gobot https://www.reddit.com/r/golang/comments/9r9roi/new_to_go_and_gobot/ Reddit /r/golang Eitamr}
+{Why use Docker with Go? https://www.reddit.com/r/golang/comments/9r8u8b/why_use_docker_with_go/ Reddit /r/golang Gentleman-Tech}
+{lissajous from the go programming language? https://www.reddit.com/r/golang/comments/9r8o7v/lissajous_from_the_go_programming_language/ Reddit /r/golang BubblegumTitanium}
+{Jason Keene - Monkeying with Memory https://www.youtube.com/watch?v=Cv-F3cHsXiI Reddit /r/golang jasonkeene}
+{Metal with Go https://twitter.com/dmitshur/status/1054604519542272000 Reddit /r/golang sh41}
+{Eno Compton - Compile-time Dependency Injection with Wire https://www.youtube.com/watch?v=yjCIeT5eWBo Reddit /r/golang jasonkeene}
+{Promises Using Reflect https://godoc.org/github.com/Fliko/cardinal Reddit /r/golang flikopolis}
+{Using go for networking https://www.reddit.com/r/golang/comments/9r4sb3/using_go_for_networking/ Reddit /r/golang buck8ochickn}
+{matrix operations and go routines https://www.reddit.com/r/golang/comments/9r4c57/matrix_operations_and_go_routines/ Reddit /r/golang orions_nipple}
+{Cryptopals challenge 4, garbage returned in Go but not C https://www.reddit.com/r/golang/comments/9r32ea/cryptopals_challenge_4_garbage_returned_in_go_but/ Reddit /r/golang Hwatwasthat}
+{Can someone explain this simple html/template load order? https://www.reddit.com/r/golang/comments/9r30bx/can_someone_explain_this_simple_htmltemplate_load/ Reddit /r/golang Xeoncross}
+{XML to Go struct https://www.reddit.com/r/golang/comments/9r1fgc/xml_to_go_struct/ Reddit /r/golang kjk}
+{gvm - go version manager https://www.reddit.com/r/golang/comments/9r0bym/gvm_go_version_manager/ Reddit /r/golang staticmukesh}
+{Implement Capistrano/SSHKit in Golang https://medium.com/@zhimin.wen/implement-capistrano-sshkit-in-golang-32d8d094e65d Reddit /r/golang zhiminwen}
+{Why Golang's community is so hostile to any kind of criticism? https://www.reddit.com/r/golang/comments/9r051l/why_golangs_community_is_so_hostile_to_any_kind/ Reddit /r/golang eronanon}
+{Capturing a ServerHello from a "failed" connection https://www.reddit.com/r/golang/comments/9qzyev/capturing_a_serverhello_from_a_failed_connection/ Reddit /r/golang g-a-c}
+{Godown - distributed, fault-tolerant key-value storage [first Go project, code review welcomed] https://www.reddit.com/r/golang/comments/9qzvcw/godown_distributed_faulttolerant_keyvalue_storage/ Reddit /r/golang iggerman}
+{up — a tool for writing Linux pipes with instant live preview https://github.com/akavel/up Reddit /r/golang akavel}
+{Golang for ETL / Data pipelines (like Airflow, Luigi)? https://www.reddit.com/r/golang/comments/9qyvlo/golang_for_etl_data_pipelines_like_airflow_luigi/ Reddit /r/golang nivenkos}
+{dive: a docker image explorer written in golang https://github.com/wagoodman/dive Reddit /r/golang wagoodman}
+{Rendering a map using Go, Mapbox and OpenStreetMap https://remy.io/blog/rendering-a-map-using-go-mapbox-and-openstreetmap/ Reddit /r/golang remeh}
+{simsim - Trust on first use SSH server https://news.ycombinator.com/item?id=18288060 Reddit /r/golang TheMerovius}
+{Proposal: Go 2 transition -- A proposal for how to make incompatible changes from Go 1 to Go 2 while breaking as little as possible. https://github.com/golang/proposal/blob/master/design/28221-go2-transitions.md Reddit /r/golang dgryski}
